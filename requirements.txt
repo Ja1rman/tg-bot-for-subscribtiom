@@ -1,4 +1,4 @@
-pytelegrambotapi.py
+pytelegrambotapi
 aiohttp
 websockets
 chardet

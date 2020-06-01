@@ -1,4 +1,3 @@
 pytelegrambotapi
-aiohttp
-websockets
-chardet
+pymysql
+datetime
